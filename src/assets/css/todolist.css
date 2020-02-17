@@ -1,0 +1,27 @@
+.input {
+    width: 400px;
+    height: 45px;
+    margin-left: 15px;
+    padding: 0 10px;
+    font-size: 16px;
+}
+.block-title{
+  background-color: #cdcdcd;
+  padding: 5px 15px;
+}
+input[type='checkbox']{
+  margin-right: 8px;
+}
+.todolist-view ul li{
+  margin-bottom: 10px;
+}
+.btn-delete{
+  margin-left: 15px;
+  background-color: #de4e27;
+  color: #fff;
+  border-color: #de4e27;
+  border-radius: 3px;
+  outline: none;
+  cursor: pointer;
+  height: 25px;
+}

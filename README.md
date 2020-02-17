@@ -81,3 +81,10 @@ way:2
 2.cd demo1
 3.npm start
 4.npm run buid
+
+
+
+### react 引入图片
+### way:1
+### <img src={require('../../imgages/1.jpg')}/>
+
